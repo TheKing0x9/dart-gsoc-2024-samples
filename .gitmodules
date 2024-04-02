@@ -1,0 +1,3 @@
+[submodule "c-emcc/include/libwebp"]
+	path = c-emcc/include/libwebp
+	url = https://github.com/webmproject/libwebp
